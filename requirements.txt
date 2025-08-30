@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+gtts
+youtube-transcript-api==1.2.2

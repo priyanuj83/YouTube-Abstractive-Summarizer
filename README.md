@@ -34,11 +34,9 @@ Built using:
 
 ---
 
-## 📦 Installation
+## 📺 Live Demo
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/youtube-summarizer.git
-cd youtube-summarizer
+Check out the deployed Streamlit app here:  
+👉 [YouTube Abstractive Summarizer]([https://<your-streamlit-app-link>](https://youtube-abstractive-summarizer-5e46mfhrcuhfwekdyyehxv.streamlit.app/))
 
 

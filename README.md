@@ -37,6 +37,6 @@ Built using:
 ## 📺 Live Demo
 
 Check out the deployed Streamlit app here:  
-👉 [YouTube Abstractive Summarizer]([https://<your-streamlit-app-link>](https://youtube-abstractive-summarizer-5e46mfhrcuhfwekdyyehxv.streamlit.app/))
+👉 [YouTube Abstractive Summarizer](https://youtube-abstractive-summarizer-5e46mfhrcuhfwekdyyehxv.streamlit.app/)
 
 
